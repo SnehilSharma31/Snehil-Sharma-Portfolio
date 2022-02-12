@@ -1,3 +1,3 @@
-# Arlo-Personal-Portfolio-Resume-Template
+# Snehil Sharma Portfolio
 Arlo - Personal  Portfolio  Resume Template
 https://jemes888.github.io/Arlo---Personal-Portfolio-Resume-Template/.
