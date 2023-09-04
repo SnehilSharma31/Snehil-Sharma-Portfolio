@@ -48,7 +48,7 @@ An exclusively adaptable portfolio website that presents my creations in a disti
 - Fork this Repository.
 - Clone the forked repository on your local system.
 ```
-git clone https://github.com/<your-github-username>/My-Portfolio-Website.git
+git clone https://github.com/SnehilSharma31/Snehil-Sharma-Portfolio.git
 ```
 - Open `index.html` in your browser.
 <p align="right">(<a href="#top">back to top</a>)</p>
